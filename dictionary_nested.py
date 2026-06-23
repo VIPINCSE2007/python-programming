@@ -10,3 +10,4 @@ info = {
     }
 }
 print(info["subject"]["chem"])   #fetching out a specific detail info --> subject --> chem
+
